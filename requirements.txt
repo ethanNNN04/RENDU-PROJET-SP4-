@@ -4,11 +4,11 @@
 # ============================================================
 
 # --- Calcul scientifique ---
-numpy>=1.21.0          # Tableaux multidimensionnels, algèbre linéaire
-scipy>=1.7.0           # Matrices creuses (scipy.sparse), solveur linéaire (spsolve)
+numpy>=1.21.0
+scipy>=1.7.0          
 
 # --- Visualisation ---
-matplotlib>=3.4.0      # Figures 2D, contourf, triplot, patches
+matplotlib>=3.4.0     
 
 # --- Environnement interactif ---
 jupyter>=1.0.0         
